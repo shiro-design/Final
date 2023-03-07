@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App</string>
+    <string name="city">Thành phố</string>
+    <string name="enter_text">"Nhập gì đó "</string>
+    <string name="enter_your_email">"Nhập emai "</string>
+    <string name="reset">Đặt lại</string>
+    <string name="down">Tải về</string>
+    <string name="login">Đăng nhập</string>
+    <string name="forgot_password">"Quên mật khẩu "</string>
+    <string name="login_btn">"Đăng Nhập "</string>
+    <string name="don_t_have_account_create_new_account">Bạn không có tài khoản ? Tạo ngay nào</string>
+    <string name="write_some_thing_here">Bạn đang nghĩ gì?</string>
+    <string name="name">"Tên "</string>
+    <string name="register">Đăng ký</string>
+    <string name="register_btn">Đăng ký</string>
+    <string name="already_have_new_account">"Đã có tài khoản "</string>
+    <string name="savebtn">Lưu</string>
+    <string name="hobby">Sở thích</string>
+    <string name="profesion">Nghề nghiệp</string>
+    <string name="send_request">Gửi yêu cầu</string>
+    <string name="decline_request">Hủy yêu cầu</string>
+    <string name="email">Nhập email của bạn</string>
+    <string name="password">"Mật khẩu "</string>
+    <string name="user_name">"Tên đăng nhập "</string>
+</resources>

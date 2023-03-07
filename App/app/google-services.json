@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "648626627101",
+    "firebase_url": "https://appshi-56faa-default-rtdb.firebaseio.com",
+    "project_id": "appshi-56faa",
+    "storage_bucket": "appshi-56faa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648626627101:android:f61964e12d31b782e01cf4",
+        "android_client_info": {
+          "package_name": "com.shi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648626627101-1g4bbgmntcch6tcgu3qdrbhj3qkvul3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJSNVGx2eCf3qafmJ1bXxPB2nAxxz3nG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648626627101-1g4bbgmntcch6tcgu3qdrbhj3qkvul3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
